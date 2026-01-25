@@ -123,6 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 .logo-img {
   height: 50px;
   width: auto;
+  border-radius: 20px;
 }
 
 .logo-text {
@@ -190,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* HERO SECTION */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('images/features.jpeg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('images/Bacg.jpeg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -333,7 +334,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .about-image {
-  border-radius: 10px;
+  border-radius: 30px;
   overflow: hidden;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
 }
